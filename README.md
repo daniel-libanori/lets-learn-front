@@ -1,3 +1,11 @@
+# Lets Learn - Frontend
+
+## Recursos do Projeto
+
+Repo Frontend: https://github.com/daniel-libanori/lets-learn-front
+Repo Backend: https://github.com/gtfuhr/lets-learn
+Protótipo Figma: https://www.figma.com/file/tnlGe0QzVta005A0HajI5S/LetsLearn?node-id=0%3A1
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
